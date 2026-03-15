@@ -1,0 +1,69 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    margin: 0cqmax;
+    
+
+}
+
+
+header{
+    background-color: bisque;
+    color: azure;
+    padding: 15px;
+
+}
+
+nav a{
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+main{
+    padding: 20px;
+
+}
+
+h2{
+    color: darkblue;
+    
+}
+
+footer{
+    background-color: white;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+button{
+    margin: 10px;
+    border: solid;
+    border-radius: 10px;
+    
+}
+
+p{
+    margin: 10px;
+    border: solid;
+    
+    
+}
+
+
+li{
+    padding: 10px;
+    margin: 6px;
+}
+
+h3{
+    padding: 10px;
+    margin: 5px;
+    text-decoration: wavy;
+}
+h1{
+    padding: 20px;
+    margin: 6px;
+    text-decoration: underline;     
+}
